@@ -1,4 +1,4 @@
-# Hawking School Homework #6
+# Hawking School Homework #7
 
 См. файл index.php - https://github.com/AnnaBel05/hawking_hw7/blob/master/index.php
 
